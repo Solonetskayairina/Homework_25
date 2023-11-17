@@ -1,0 +1,23 @@
+    * {
+        padding: 0;
+        margin: 0;
+        border: 0;
+    }
+
+    body {
+        font-size: 16px;
+        font-weight: 500;
+        font-family: 'Montserrat', sans-serif;
+        color: royalblue;
+    }
+
+    table {
+        border-collapse: collapse;
+        margin: 20px;
+    }
+
+    td {
+        border: 4px solid #ddd;
+        padding: 8px;
+        text-align: center;
+    }
